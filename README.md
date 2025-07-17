@@ -1,4 +1,4 @@
-<h1 align="center"><em>Diego Piedrahita</em></h1>
+<h1 align="center">Hola, soy <em>Diego Piedrahita</em> 👋</h1>
 
 <p align="center">
   Web developer, specialized in backend and automation with Python.
