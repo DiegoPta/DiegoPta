@@ -43,11 +43,11 @@
 
 ## 🚀 Outstanding projects
 
-- [Generador de historias frontend](https://github.com/DiegoPta/stories-generator-frontend)
+- [Stories generator - frontend](https://github.com/DiegoPta/stories-generator-frontend)
     - [Github pages](https://diegopta.github.io/stories-generator-frontend)
-- [Generador de historias backend](https://github.com/DiegoPta/stories-generator-backend)
+- [Stories generator - backend](https://github.com/DiegoPta/stories-generator-backend)
 - [E-Commerce](https://github.com/DiegoPta/DPShop)
-- [API de fútbol](https://github.com/DiegoPta/football-api)
+- [Football API](https://github.com/DiegoPta/football-api)
 
 ---
 
