@@ -1,12 +1,12 @@
 <h1 align="center">Diego Piedrahita</h1>
 
 <p align="center">
-  Desarrollador web, especializado en backend y automatización con Python.
+  Web developer, specialized in backend and automation with Python.
 </p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/python.png" title="Python">
@@ -29,7 +29,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoPta&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Outstanding projects
 
 - [Generador de historias frontend](https://github.com/DiegoPta/stories-generator-frontend)
     - [Github pages](https://diegopta.github.io/stories-generator-frontend)
@@ -51,9 +51,7 @@
 
 ---
 
-## 📬 ¿Hablamos?
-
-#### Puedes escribirme por correo o conectar en linkedin.
+## 📬 Contact me...
 <p>
   <a href="mailto:diego.fdopiar@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="margin: 0 10px;">
