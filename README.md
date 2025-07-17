@@ -4,15 +4,6 @@
   Desarrollador web, especializado en backend y automatización con Python.
 </p>
 
-<p align="center">
-  <a href="mailto:diego.fdopiar@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="margin: 0 10px;">
-  </a>
-  <a href="https://linkedin.com/in/diego-fernando-piedrahita-arango-30a1661a4/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin: 0 10px;">
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tecnologías
@@ -61,4 +52,13 @@
 
 ## 📬 ¿Hablamos?
 
-Puedes escribirme por correo o conectar en [LinkedIn](https://linkedin.com/in/diego-fernando-piedrahita-arango-30a1661a4).
+#### Puedes escribirme por correo o conectar en linkedin.
+
+<p align="center">
+  <a href="mailto:diego.fdopiar@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="margin: 0 10px;">
+  </a>
+  <a href="https://linkedin.com/in/diego-fernando-piedrahita-arango-30a1661a4/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin: 0 10px;">
+  </a>
+</p>
