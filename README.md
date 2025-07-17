@@ -31,11 +31,8 @@
 
 ## 📈 GitHub statistics
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoPta&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPta&layout=compact&theme=tokyonight" alt="Lenguajes más usados">
 </p>
 
