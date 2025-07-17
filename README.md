@@ -1,32 +1,38 @@
-<h1 align="center">👋 ¡Hola! Soy Diego Piedrahita</h1>
+<h1 align="center">Diego Piedrahita</h1>
 
 <p align="center">
-  Desarrollador Backend apasionado por <strong>Python</strong> 🐍, las <strong>APIs</strong> ⚡ y la automatización de procesos 🚀.
+  Desarrollador web, especializado en backend y automatización con Python.
 </p>
 
 <p align="center">
   <a href="mailto:diego.fdopiar@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-Email-red?style=for-the-badge">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="margin: 0 10px;">
   </a>
   <a href="https://linkedin.com/in/diego-fernando-piedrahita-arango-30a1661a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" style="margin: 0 10px;">
   </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🛠️ Tecnologías
 
-## 🛠️ Tecnologías principales
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-  <img src="https://img.shields.io/badge/CI/CD-3C3C3C?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+<p align="center">
+  <img src="https://img.icons8.com/color/48/python.png" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" title="Django">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" title="FastAPI">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" title="SQL Server">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" title="SQLite">
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL">
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB">
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML">
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS">
+  <img src="https://img.icons8.com/color/48/linux.png" title="Linux">
+  <img src="https://img.icons8.com/color/48/git.png" title="Git">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS">
+  <img src="https://img.icons8.com/color/48/docker.png" title="Docker">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="48" height="48" title="n8n">
 </p>
 
 ---
