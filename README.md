@@ -45,6 +45,7 @@
 - [Stories generator - backend](https://github.com/DiegoPta/stories-generator-backend)
 - [E-Commerce](https://github.com/DiegoPta/DPShop)
 - [Football API](https://github.com/DiegoPta/football-api)
+- [Order Bot](https://github.com/DiegoPta/order-bot)
 
 ---
 
